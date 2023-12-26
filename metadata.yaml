@@ -1,0 +1,49 @@
+_repo: Captains-of-adventure_72176
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Pocock, Roger
+    aliases:
+    - Pocock, H. R. A. (Henry Roger Ashwell)
+    - Pocock, Henry Roger Ashwell
+    - Pocock, Roger S.
+    birthdate: 1865
+    deathdate: 1941
+    gutenberg_agent_id: '36399'
+    url: http://www.gutenberg.org/2009/agents/36399
+description: ''
+gutenberg_issued: '2023-11-20'
+identifiers:
+  gutenberg: '72176'
+language: en
+pgterms:marc904: https://archive.org/details/captainsofadvent0000poco
+pgterms:marc905: 20210611095710pocock
+pgterms:marc906: '1913'
+pgterms:marc907: us
+production_note: Peter Becker and the Online Distributed Proofreading Team at https://www.pgdp.net
+  (This file was produced from images generously made available by The Internet Archive)
+publication_note: '  $aUnited States :$bBobbs-Merrill Company, $c1913.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Adventure and adventurers'
+- !lcc 'CT'
+- GITenberg
+tableOfContents: The Vikings in America -- The Crusaders -- The Middle Ages in Asia
+  -- The marvelous adventures of Sir John Maundeville -- Columbus -- The conquest
+  of Mexico -- The conquest of Peru -- The Corsairs -- Portugal in the Indies -- Rajah
+  Brooke -- The spies -- A year's adventure -- Kit Carson -- The man who was a god
+  -- The great filibuster -- Buffalo Bill -- The Australian desert -- The hero-statesman
+  -- The special correspondent -- Lord Strathcona -- The sea hunters -- The bushrangers
+  -- The passing of the bison -- Gordon -- The outlaw -- A king at twenty-five --
+  Journey of Ewart Grogan -- The cowboy president -- The Northwest Passage -- John
+  Hawkins -- Francis Drake -- The four armadas -- Sir Humphrey Gilbert -- Sir Walter
+  Raleigh -- Captain John Smith -- The buccaneers -- The voyageurs -- The explorers
+  -- The pirates -- Daniel Boone -- Andrew Jackson -- Sam Houston -- Davy Crockett
+  -- Alexander Mackenzie -- The white man's coming -- The beaver -- The conquest of
+  the poles -- Women -- The conquerors of India -- The man who shot Lord Nelson --
+  The fall of Napoleon -- Rising Wolf -- Simon Bolivar -- The Almirante Cochrane --
+  The South Sea cannibals -- A tale of vengeance.
+title: Captains of adventure
+url: http://www.gutenberg.org/ebooks/72176
